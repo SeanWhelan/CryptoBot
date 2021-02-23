@@ -20,7 +20,5 @@ As this is a Node.js bot, it can be run on Windows, macOS and Linux. I would rec
 
  - Seán Whelan
 	 - [Twitter](https://twitter.com/shazsnks)
-
-Seán Whelan
 ### License
 This project is licensed under the [MIT license](https://github.com/SeanWhelan/CryptoBot/blob/main/LICENSE).

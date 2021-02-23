@@ -1,0 +1,16 @@
+{
+  "name": "cryptobot",
+  "version": "0.1.0",
+  "description": "A simple, lightweight Discord cryptocurrency bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Seán Whelan",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
